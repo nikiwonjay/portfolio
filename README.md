@@ -1,11 +1,9 @@
-# 个人作品集
+# JobPilot 作品集
 
 网站：https://nikiwonjay.github.io/portfolio/
 
-展示 My Travel 公开版与 JobPilot。纯 HTML/CSS/JavaScript，GitHub Pages 从 main 分支根目录发布。
+只展示 JobPilot：真实界面、字段匹配、可选 AI 识别、日期辅助选择与中英文资料管理。页面面向快速浏览，技术与配置说明链接至项目仓库。
 
-JobPilot 1.0.25 已合入 FieldMate AI 字段识别能力，保留原插件名称和商店链接。本地规则推荐，可按需调用用户配置的 AI 理解字段叫法、分组归属及日期精度，返回已有候选和理由，由用户核对填写。AI 默认关闭，需要自己的 API 地址、Model 和密钥，供应商可能收费。
+JobPilot 1.0.25 已在 Edge 商店上线。截图使用测试资料，为此前版本界面。
 
-146 项测试、类型检查与构建通过；AI 测试使用模拟服务，部分只读日历与网站保存流程仍待验证。作品集中的操作示例不是实时 AI 调用，耗时估算不包含 AI 等待。
-
-JobPilot 1.0.25 已通过 Edge 商店审核并上线，包含 AI 字段识别升级，原安装链接继续有效。
+纯 HTML/CSS，GitHub Pages 从 main 分支根目录发布。
